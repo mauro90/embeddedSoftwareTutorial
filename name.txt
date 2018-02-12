@@ -1,3 +1,5 @@
 ## This file will contain the names of all people in the class
 
 Siobhan Duncan
+Jane Doe
+John Smith
